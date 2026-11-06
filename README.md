@@ -1,0 +1,1 @@
+# spyern-forex-scalper
